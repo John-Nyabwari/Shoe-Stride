@@ -22,22 +22,22 @@ Our platform features:
 
 ## 🎬 Website Screenshots
 
-### Hero Section
+### Inquiry
 ![Hero Section - 3D Shoe Model with Animated Typography](screenshots/01-hero.png)
 
 ### Featured Collections
 ![Product Collections - Nike, Adidas, Puma](screenshots/02-collections.png)
 
-### Product Grid & Search
+### Grid
 ![Product Grid with Search and Filter](screenshots/03-product-grid.png)
 
 ### Interactive Carousel
 ![Trending Products Carousel](screenshots/04-carousel.png)
 
-### Gallery Section
+### Culture
 ![Visual Product Gallery](screenshots/05-gallery.png)
 
-### Mobile Responsive Design
+### Home
 ![Mobile Menu and Responsive Layout](screenshots/06-mobile.png)
 
 ---
