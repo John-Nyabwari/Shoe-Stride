@@ -8,7 +8,7 @@
 
 ## 🌍 About ShoeStride
 
-ShoeStride is a modern, interactive e-commerce platform showcasing premium sneakers from leading brands. Built in Nairobi, Kenya and established in 2026, we bring cutting-edge design and premium footwear to the bold generation.
+ShoeStride is a modern, interactive e-commerce platform showcasing premium sneakers from leading brands. Built in Nairobi, Kenya and established in 2026, we bring cutting-edge design and premium functionality to the sneaker community.
 
 Our platform features:
 - 🎨 **Interactive 3D Models** - Explore shoes in stunning detail
@@ -44,9 +44,9 @@ Our platform features:
 
 ## 🏗️ Tech Stack
 
-- **Frontend:** JavaScript (46.5%)
-- **Styling:** CSS (33%)
-- **Markup:** HTML (20.5%)
+- **Frontend:** TypeScript (66.9%)
+- **Styling:** CSS (32.4%)
+- **Markup:** HTML (0.7%)
 
 ### Key Libraries & Technologies
 
